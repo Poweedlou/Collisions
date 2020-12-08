@@ -7,3 +7,4 @@ choice without a choice:
 3) only odd molecules number - somehow causes memory leak
 4) no funny stuff
 5) make sure to have kernels in program folder (*.cl)
+6) you may want to build in separate /build/build folder

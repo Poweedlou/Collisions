@@ -1,0 +1,10 @@
+build/build
+build/CMakeFiles
+build/.cmake
+.vscode
+*.o
+build/cmake_install.cmake
+build/CMakeCache.txt
+build/compile_commands.json
+build/Makefile
+*.bin
